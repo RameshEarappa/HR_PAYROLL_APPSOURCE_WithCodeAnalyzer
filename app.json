@@ -1,0 +1,33 @@
+{
+  "id": "f6ed8b72-4e8b-4491-8495-ea321c6475d9",
+  "name": "InTwoHumanResourceAndPayrollExtension",
+  "publisher": "HR & Payroll By InTwo",
+  "version": "1.0.0.23",
+  "brief": "Object Range Used in this Extension Start : 60000 to 70999,Please Make sure another extension use same Object Rang.",
+  "description": "Object Range Used in this Extension Start : 60000 to 70999,Please Make sure another extension use same Object Rang.",
+  "privacyStatement": "https://InTwo.cloud/help",
+  "EULA": "https://InTwo.cloud/help",
+  "help": "https://InTwo.cloud/help",
+  "url": "https://InTwo.cloud/help",
+  "logo": "Logo_Levtech/InTwoLogo.png",
+  "dependencies": [ ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 70999
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://InTwoHumanResourceAndPayrollExtension.com/help/",
+  "resourceExposurePolicy": 
+  {
+    "allowDebugging": true, 
+    "allowDownloadingSource": false, 
+    "includeSourceInSymbolFile": true
+  },
+  "features": [ "TranslationFile" ],
+  "runtime": "8.0",
+  "target": "Cloud"
+}
